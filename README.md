@@ -1,2 +1,2 @@
 # Mydemo
-this is Tic Tac Toe game project
+This is Tic_Tac Toe_game project developed using java.
